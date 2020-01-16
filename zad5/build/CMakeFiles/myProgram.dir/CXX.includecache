@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/address.h
+stdio.h
+-
+
+../include/employee.h
+
+/home/sitar/kolokwium/zad5/src/address.cpp
+string
+-
+
+/home/sitar/kolokwium/zad5/src/employee.cpp
+address.h
+/home/sitar/kolokwium/zad5/src/address.h
+
+/home/sitar/kolokwium/zad5/src/main.cpp
+employee.h
+/home/sitar/kolokwium/zad5/src/employee.h
+address.h
+/home/sitar/kolokwium/zad5/src/address.h
+

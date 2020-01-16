@@ -1,0 +1,3 @@
+/home/sitar/kolokwium/zad5/build/CMakeFiles/rebuild_cache.dir
+/home/sitar/kolokwium/zad5/build/CMakeFiles/myProgram.dir
+/home/sitar/kolokwium/zad5/build/CMakeFiles/edit_cache.dir

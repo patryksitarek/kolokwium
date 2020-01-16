@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/myProgram.dir/src/Student.cpp.o  -o myProgram libLibTest.a 
